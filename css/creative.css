@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #652d23;
+    border-color: #87bab0;
     border-width: 2px;
 }
 
@@ -26,7 +26,7 @@ hr.light {
 
 
 a {
-    color: #652d23;
+    color: #87bab0;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -34,11 +34,11 @@ a {
 
 a:hover,
 a:focus {
-    color: #652d23;
+    color: #87bab0;
 }
 
 #project-title {
-color: #652d23;
+color: #87bab0;
 }
 
 h1,
@@ -94,12 +94,12 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #f05f40;
+    color: #000000;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #000000;
 }
 
 .navbar-default .nav > li>a,
@@ -117,7 +117,7 @@ aside {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #652d23!important;
+    color: #87bab0!important;
     background-color: transparent;
 }
 
@@ -128,29 +128,29 @@ aside {
 
 @media(min-width:768px) {
     .navbar-default {
-        border-color: #652d23;
+        border-color: #000000;
         background-color: white;
     }
 
     .navbar-default .navbar-header .navbar-brand {
-        color: #652d23;
+        color: #000000;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
         font-size: 18.5px;
-        color: #652d23;
+        color: #000000;
     }
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: #652d23;
+        color: #000000;
     }
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
         font-size: 14px;
-        color: #652d23;
+        color: #87bab0;
     }
 
     .navbar-default.affix {
@@ -160,24 +160,24 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
-        color: #652d23;
+        color: #000000;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
         font-size: 15px;
-        color: #652d23;
+        color: #87bab0;
     }
 
     .navbar-default.affix .nav > li>a,
     .navbar-default.affix .nav>li>a:focus {
-        color: #652d23;
+        color: #000000;
     }
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
         font-size: 14px;
-        color: #652d23;
+        color: #000000;
     }
 }
 
@@ -315,9 +315,9 @@ header .header-content .header-content-inner p {
     width: 100%;
     height: 100%;
     text-align: center;
-    color: #652d23;
+    color: #000000;
     opacity: 0;
-    background: #ffb6ab;
+    background: #9caea9;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
